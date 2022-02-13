@@ -719,8 +719,4 @@ void printversion()
   printf("***************************\n");
   printf(" LISFLOOD-FP version %d.%d.%d\n",VersionMajor,VersionMinor,VersionInc);
   printf("***************************\n\n");
-  printf(" This is a modified version 5.9 including Basic Model Interface (BMI) compatibility\n\n");
-  printf("***************************\n\n");
-  printf(" The model needs therefore be executed accordingly!\n\n");
-  printf("***************************\n\n");
 }

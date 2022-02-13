@@ -24,7 +24,7 @@ Reserved for major changes, use list below this one and subversion for full deta
 
 Ver  Date         Details
 ---  ----         -------------------------------------------------------------------------
-5.99  Oct 07 2016  Re-structured code to be executable via BMI-adapter (Jannis Hoch)
+5.99 Oct 07 2016  Re-structured code to be executable via BMI-adapter (Jannis Hoch)
 5.9  Aug 05 2013  Support for LatLong added (CCS)
 5.8  Feb 15 2013  Regression model wetted perimiter added, bug fix for SGC wider than cell (JCN)
 5.7  Sep 26 2012  Fully tested and bug fixed bridge implementation in subgrid (MT)

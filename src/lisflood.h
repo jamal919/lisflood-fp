@@ -5,17 +5,12 @@
   #####################################################################################
   LISFLOOD-FP flood inundation model
   #####################################################################################
-  extended with Basic Model Interface (BMI) compatibility
-  #####################################################################################
 
-  © copyright Bristol University Hydrology Research Group 2008
+  ï¿½ copyright Bristol University Hydrology Research Group 2008
 
   webpage -	http://www.ggy.bris.ac.uk/research/hydrology/models/lisflood
   contact -	Professor Paul Bates, email: paul.bates@Bristol.ac.uk,
   Tel: +44-117-928-9108, Fax: +44-117-928-7878
-  
-  for inquiries and questions regarding BMI compatibility, please contact
-  Jannis Hoch, M.Sc. Utrecht University, Faculty of Geosciences, Department Physical Geography): j.m.hoch@uu.nl
 
 */
 

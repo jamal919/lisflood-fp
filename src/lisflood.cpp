@@ -3,7 +3,7 @@
 LISFLOOD-FP flood inundation model
 #####################################################################################
 
-© copyright Bristol University Hydrology Research Group 2008
+ï¿½ copyright Bristol University Hydrology Research Group 2008
 
 webpage -	http://www.ggy.bris.ac.uk/research/hydrology/models/lisflood
 contact -	Professor Paul Bates, email: paul.bates@Bristol.ac.uk,
